@@ -1,0 +1,3 @@
+{
+  ".eslintrc.json": "{\n  \"extends\": [\"eslint:recommended\", \"plugin:react/recommended\", \"plugin:prettier/recommended\"],\n  \"parserOptions\": {\n    \"ecmaVersion\": 2021,\n    \"sourceType\": \"module\",\n    \"ecmaFeatures\": {\n      \"jsx\": true\n    }\n  },\n  \"env\": {\n    \"browser\": true,\n    \"node\": true,\n    \"es2021\": true\n  },\n  \"plugins\": [\"react\", \"prettier\"],\n  \"rules\": {\n    \"prettier/prettier\": \"error\",\n    \"react/prop-types\": \"off\",\n    \"react/react-in-jsx-scope\": \"off\"\n  }\n}"
+}

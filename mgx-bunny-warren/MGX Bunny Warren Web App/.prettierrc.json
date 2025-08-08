@@ -1,0 +1,3 @@
+{
+  ".prettierrc.json": "{\n  \"semi\": true,\n  \"singleQuote\": true,\n  \"trailingComma\": \"es5\",\n  \"printWidth\": 80,\n  \"tabWidth\": 2,\n  \"useTabs\": false,\n  \"jsxSingleQuote\": false,\n  \"bracketSpacing\": true,\n  \"arrowParens\": \"always\"\n}"
+}

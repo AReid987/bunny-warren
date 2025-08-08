@@ -1,0 +1,32 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clerk/nextjs": "^6.15.0",
+    "animejs": "^4.0.1",
+    "autoprefixer": "^10.4.21",
+    "framer-motion": "^12.7.3",
+    "next": "^15.3.0",
+    "postcss": "^8.5.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "socket.io-client": "^4.8.1",
+    "tailwindcss": "^4.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^9.24.0",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-prettier": "^5.2.6",
+    "eslint-plugin-react": "^7.37.5",
+    "prettier": "^3.5.3"
+  }
+}
