@@ -13,10 +13,10 @@
   "dependencies": {
     "@repo/ui": "workspace:*",
     "@types/three": "^0.178.1",
-    "next": "^15.2.1",
+    "next": "^15.5.14",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "three": "^0.178.0",
+    "three": "^0.179.0",
     "three.js": "^0.77.1"
   },
   "devDependencies": {
