@@ -1,0 +1,6 @@
+interface:
+  display_name: "Bunny Warren"
+  short_description: "Repo-specific patterns and workflows for bunny-warren"
+  default_prompt: "Use the bunny-warren repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
